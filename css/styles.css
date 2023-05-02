@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 244, 98, 58;
+  --bs-primary-rgb: 58, 177, 244;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -10949,7 +10949,7 @@ header.masthead h1, header.masthead .h1 {
     font-size: 1.15rem;
   }
   header.masthead h1, header.masthead .h1 {
-    font-size: 3rem;
+    font-size-adjust: 3rem;
   }
 }
 @media (min-width: 1200px) {
